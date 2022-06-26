@@ -48,7 +48,7 @@ img {
   filter: opacity(20%); 
   
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
 
   body {
     background-color: hsl(233, 47%, 7%);
